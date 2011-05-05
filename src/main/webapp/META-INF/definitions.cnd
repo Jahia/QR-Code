@@ -1,0 +1,7 @@
+<jnt = 'http://www.jahia.org/jahia/nt/1.0'>
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+
+[jnt:qrcode] > jnt:content, jmix:multimediaContent, jmix:bindedComponent, jmix:editorialContent
+- method 		(string, choicelist[resourceBundle]) = wsGApp  	< wsGApp, clientSide, serverSide
+- redundancy 	(string, choicelist[resourceBundle]) = L  		< L, M, Q, H
+- size		 	(long) = 100

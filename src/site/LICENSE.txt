@@ -1,0 +1,4 @@
+
+
+Google Chart Usage Policy
+There's no limit to the number of calls per day you can make to the Google Chart API. However, we reserve the right to block any use that we regard as abusive. If you think your service will make more than 250,000 API calls per day, please let us know by mailing an estimate to chart-api-notifications@google.com.
